@@ -44,6 +44,6 @@ Natural companion artifacts in this lane include:
 - *Meeting ¯\(ツ)/¯ — Chance, Failure, and the Normal Behavior of the Universe*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19446407
 
 Full signed PDF available via DOI link after publication.
